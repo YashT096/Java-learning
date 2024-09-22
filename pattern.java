@@ -35,6 +35,17 @@ public class pattern {
           System.out.println(number);
         }
          System.out.println();
+
+    //print chracter pattern
+     int n =4;
+     char ch ='A';
+
+     for (int line=1; Line<=n ; Line++){
+      for (int char=1; char<=line; char++)
+      System.out.println(ch);
+
+
+     }System.out.println();
     }
      
 
